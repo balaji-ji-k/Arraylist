@@ -30,7 +30,7 @@ public class UseCar {
 			System.out.println(x);
 		}*/
 		
-		//cars.forEach(c->System.out.println(c.getBrand()));
+		cars.forEach(c->System.out.println(c.getBrand()));
 	}
 
 }
